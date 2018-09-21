@@ -6,4 +6,4 @@ Jupyter Notebook
 ## Algorithm
 ### Logistic Regression (Binary Classification)
 Implemented Logistic Regression using sckit learn.
-#### Accuracy- 79.21
+#### Accuracy- 79.21%

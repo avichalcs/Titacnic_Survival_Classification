@@ -1,4 +1,4 @@
-# Titacnic_Survival_Classification
+# Titanic_Survival_Classification
 ## OverView
 Predicted if a passenger survived the sinking of the Titanic or not based on the given data of passengers.
 ## Dependencies
